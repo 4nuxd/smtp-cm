@@ -1,4 +1,4 @@
-```markdown
+
 # A Python Based Mass SMTP Checker and Mailer Tool 📨
 
 A Python-based tool designed to:
