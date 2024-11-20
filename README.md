@@ -39,8 +39,8 @@ pip install termcolor colorama requests
 
 ### **SMTP Checker 🔍:**
 
-#### 1. **Prepare Credentials File 📄**
-Create a `credentials.txt` file with the following format:
+#### 1. **Prepare Raw File 📄**
+Create a `raw.txt` file with the following format:
 
 ```
 smtp.example.com|587|username1|password1
@@ -74,11 +74,10 @@ The tool sends a notification to Telegram for every successful login. Make sure 
 ### **SMTP Mailer 📤:**
 
 #### 1. **Prepare Email Template File 📄**
-The `mailer.py` script requires an email template file (`email_template.txt`) in the following format:
+The `mailer.py` script requires an email template file (`message.txt`) in the following format:
 
 ```
-Subject: Your Email Subject
-Body: Your email body content here.
+ Your email body content here.
 ```
 
 You can also include attachments if needed by modifying the script to handle them.
