@@ -133,4 +133,3 @@ This tool is for educational purposes only. Use it responsibly and only on syste
 Noob Pirate Aka Blionrie
 
 Join our community: [PirateXNetwork](https://t.me/piratexnetwork)
-```
